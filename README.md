@@ -15,6 +15,11 @@ To run this project, you need to have the following installed on your system:
 - Java Development Kit (JDK) 8 or higher
 - IntelliJ IDEA (or any Java IDE of your choice)
 
+## Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 ### Running the Calculator
 
 1. Clone or download the project to your local machine.
@@ -59,7 +64,9 @@ The calculator GUI will appear, and you can perform calculations using the butto
 
 ## Built With
 Java Swing - The GUI library used to create the calculator interface.
-## Author
-[Rajkanwar Singh](https://github.com/Rajkanwars15)
+## Authors
+
+- [![Static Badge](https://img.shields.io/badge/Rajkanwars15-yellow?logo=GitHub&link=https%3A%2F%2Fgithub.com%2FRajkanwars15)
+  ](https://www.github.com/rajkanwars15)
 ## License
 This project is licensed under the MIT License.
