@@ -70,3 +70,7 @@ Java Swing - The GUI library used to create the calculator interface.
   ](https://www.github.com/rajkanwars15)
 ## License
 This project is licensed under the MIT License.
+
+## Status
+
+[![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)](https://github.com/GIScience/badges#archive)
